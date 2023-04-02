@@ -31,7 +31,4 @@
   - 在 `Secrets` 栏中填写第一步生成的 `Token` 值
 - 详细配置步骤图可以参考《[GitHub Action 配置详细步骤](./ActionNotes.md)》文档
 
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dmego/home.github.io&type=Date)](https://star-history.com/#dmego/home.github.io&Date)
 
